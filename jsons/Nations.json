@@ -25,9 +25,18 @@
             		"Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
             		"Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
 			"[+2] Sight <for [Embarked] units>",
-           		"[+2] Sight <in [Ocean] tiles><for [Embarked] units>",
-			"Reveal up to [3] [Water] within a [3] tile radius<upon founding a city>",
-            		"[+10]% Strength <within [2] tiles of a [Moai]>"
+           		"[+2] Sight <in [Ocean] tiles>",
+			"[3] Movement <in [Ocean] tiles>",
+			"Reveal up to [All] [Water] within a [5] tile radius <upon founding a city>",
+			"[+20]% [Food] from every [Coast]",
+			"[+25]% Yield from every [Water resource]"
+			"[+3 Happiness, +3 Culture] from every [City center]",
+			"[+1 Gold, +2 Production] from every [Atoll]",
+			"[+1 Gold, +1 Culture, +1 Happiness] from every [Ocean]",
+			"[-50]% unhappiness from the number of cities"
+			"[+20]% Strength <within [3] tiles of a [Moai]>",
+            		"[+20]% Strength <within [2] tiles of a [Moai]>",
+			"[+20]% Strength <within [1] tiles of a [Moai]>"
     ],
 		"cities": ["Honolulu","Samoa","Tonga","Nuku Hiva","Raiatea","Aotearoa","Tahiti","Hilo","Te Wai Pounamu","Rapa Nui",
 			"Tuamotu","Rarotonga","Tuvalu","Tubuai","Mangareva","Oahu","Kiritimati","Ontong Java","Niue","Rekohu",
