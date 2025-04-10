@@ -16,5 +16,33 @@
 			"Indicates the capital city",
 			"[-20]% Culture cost of adopting new Policies"
 		]
+	},
+	{
+		"name": "Makapuu Point Light",
+		"uniqueTo": "Polynesia",
+		"cost": 185,
+		"food": 1,
+		"culture": 2,
+		"happiness": 2,
+		"greatPersonPoints": {"Great Merchant": 2},
+		"isNationalWonder": true,
+		"uniques": [
+			"Must be next to [Coast]",
+			"[+2] Movement <for [{Military} {Water}] units>",
+			"[+2] Sight <for [{Military} {Water}] units>",
+			"Gain a free [Lighthouse] [in all cities]"
+		],
+		"requiredTech": "Optics"
+	},
+	{
+		"name": "Mauna Kea Observatories",
+		"uniqueTo": "Polynesia",
+		"percentStatBonus": {"science": 50},
+		"specialistSlots": {"Scientist": 2},
+		"greatPersonPoints": {"Great Scientist": 2},
+		"requiredBuilding": "Library",
+		"isNationalWonder": true,
+		"uniques": ["Gain a free [Observatory] [in all cities]"],
+		"requiredTech": "Astronomy"
 	}
 ]
