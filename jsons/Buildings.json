@@ -14,7 +14,7 @@
 		"cost": 0,
 		"uniques": [
 			"Indicates the capital city",
-			"[-20]% Culture cost of adopting new Policies"
+			"Each city founded increases culture cost of policies [+25]% less than normal"
 		]
 	},
 	{
@@ -30,7 +30,7 @@
 			"Must be next to [Coast]",
 			"[+2] Movement <for [{Military} {Water}] units>",
 			"[+2] Sight <for [{Military} {Water}] units>",
-			"Gain a free [Lighthouse] [in all cities]"
+			"Gain a free [Lighthouse] [in all coastal cities]"
 		],
 		"requiredTech": "Optics"
 	},
@@ -46,7 +46,7 @@
 		"requiredTech": "Astronomy"
 	},
 	{
-		"name": "Fish Market",
+		"name": "Seafood Market",
 		"uniqueTo": "Polynesia",
 		"cost": 40,
 		"requiredNearbyImprovedResources": ["Fish", "Whales", "Pearls", "Crab"],
@@ -58,7 +58,24 @@
 			"[+1 Food, +1 Gold] from [Whales] tiles [in this city]",
 			"[+2 Gold] from [Pearls] tiles [in this city]",
 			"[+1 Food, +1 Gold] from [Crab] tiles [in this city]",
-			"[+1 Production, +1 Happiness] from [Coast] tiles [in this city]"
+			"[+2 Production, +1 Gold] from [Atoll] tiles [in this city]"
+		],
+		"requiredTech": "Sailing"
+	},
+	{
+		"name": "Beach Resort",
+		"uniqueTo": "Polynesia",
+		"cost": 60,
+		"culture": 2,
+		"happiness": 2,
+		"gold": 2,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Must be next to [Coast]",
+			"[+1 Happiness, +1 Culture] from [Atoll] tiles [in this city]",
+			"[+1 Happiness, +1 Culture] from [Coast] tiles [in this city]",
+			"[+1 Happiness, +2 Gold] from [Atoll] tiles [in this city] <after discovering [Flight]>",
+			"[+3 Gold] [in this city] <after discovering [Flight]>"
 		],
 		"requiredTech": "Sailing"
 	}
