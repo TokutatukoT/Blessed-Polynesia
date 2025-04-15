@@ -23,7 +23,7 @@
 		"cost": 20,
 		"requiredTech": "Sailing",
 		"uniques": [
-      "May create improvements on water resources <[5] times>",
+      "Can instantly construct a [Fishing Boats] improvement <[5] times>",
       "Uncapturable",
       "Automation is a primary action"
     ]
