@@ -1,26 +1,40 @@
 
 game.png
-size: 1024, 512
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Iolani Palace
+BuildingIcons/Beach Resort
   rotate: false
   xy: 4, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-BuildingIcons/Makapuu Point Light
+BuildingIcons/Iolani Palace
   rotate: false
   xy: 268, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-BuildingIcons/Mauna Kea Obsavatories
+BuildingIcons/Makapuu Point Light
   rotate: false
   xy: 532, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mauna Kea Obsavatories
+  rotate: false
+  xy: 796, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BuildingIcons/Seafood Market
+  rotate: false
+  xy: 1060, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
