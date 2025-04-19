@@ -1,5 +1,5 @@
 [
-  {
+	{
 		"name": "Maori Warrior",
 		"unitType": "Sword",
 		"uniqueTo": "Polynesia",
@@ -9,23 +9,24 @@
 		"cost": 30,
 		"obsoleteTech": "Gunpowder",
 		"promotions": ["Haka War Dance", "Amphibious"],
-    "uniques": [
-      "Founds a new city <on foreign continents>"
+    		"uniques": [
+      			"Founds a new city <on foreign continents>"
 		],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
-  {
+  	{
 		"name": "Polynesian Work Boats",
 		"unitType": "Civilian Water",
-    "uniqueTo": "Polynesia",
+    		"uniqueTo": "Polynesia",
+		"replaces": "Work Boats",
 		"movement": 5,
 		"cost": 20,
 		"requiredTech": "Sailing",
 		"uniques": [
-      "Can instantly construct a [Fishing Boats] improvement <[5] times>",
-      "Uncapturable",
-      "Automation is a primary action"
-    ]
+      			"Can instantly construct a [Fishing Boats] improvement <[5] times>",
+      			"Uncapturable",
+      			"Automation is a primary action"
+    		]
 	}
 ]
