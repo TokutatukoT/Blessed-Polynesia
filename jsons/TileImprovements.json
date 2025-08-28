@@ -7,13 +7,13 @@
 	  	"faith": 2,
 		"turnsToBuild": 2,
 		"uniques": [
-      			"Can only be built on [Coastal] tiles",
-			"Tile provides yield without assigned population",
-      			"[+2 Culture] for each adjacent [Moai]",
+			"Can only be built on [Coastal] tiles",
+			"Improves [All] resource in this tile",
+			"[+2 Culture] for each adjacent [Moai]",
 			"[+2 Faith] for each adjacent [Moai]",
-      			"[+2 Gold] <after discovering [Flight]>",
+			"[+2 Gold] <after discovering [Flight]>",
 			"[+2 Gold] for each adjacent [Moai] <after discovering [Flight]>",
-      			"Pillaging this improvement yields approximately [+10 Gold]"
+			"Pillaging this improvement yields approximately [+10 Gold]"
     ],
 		"techRequired": "Construction",
 		"shortcutKey": "M"
