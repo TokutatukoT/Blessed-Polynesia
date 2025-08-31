@@ -4,4 +4,5 @@ The followings are from Flaticon
 [Mauna Kea Observatories] <a href="https://www.flaticon.com/free-icons/mauna-kea" title="mauna kea icons">Mauna kea icons created by surang - Flaticon</a><br>
 [Makapuu Point Light] <a href="https://www.flaticon.com/free-icons/lighthouse" title="lighthouse icons">Lighthouse icons created by Freepik - Flaticon</a><br>
 [Beach Resort] <a href="https://www.flaticon.com/free-icons/resort" title="resort icons">Resort icons created by Freepik - Flaticon</a><br>
-[Seafood Market] <a href="https://www.flaticon.com/free-icons/fish-market" title="fish market icons">Fish market icons created by Icon.verse - Flaticon</a>
+[Seafood Market] <a href="https://www.flaticon.com/free-icons/fish-market" title="fish market icons">Fish market icons created by Icon.verse - Flaticon</a><br>
+[Polynesian Work Boats] <a href="https://www.flaticon.com/free-icons/fishing" title="fishing icons">Fishing icons created by pikepicture - Flaticon</a>
