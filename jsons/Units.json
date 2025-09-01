@@ -9,9 +9,6 @@
 		"cost": 20,
 		"obsoleteTech": "Gunpowder",
 		"promotions": ["Haka War Dance", "Amphibious"],
-    	"uniques": [
-			"Founds a new city <on foreign continents>"
-		],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
