@@ -11,10 +11,7 @@
 		"faith": 3,
 		"cityStrength": 5,
 		"cost": 0,
-		"uniques": [
-			"Indicates the capital city",
-			"Each city founded increases culture cost of policies [+25]% less than normal"
-		]
+		"uniques": ["Indicates the capital city"]
 	},
 	{
 		"name": "Makapuu Point Light",
@@ -36,6 +33,7 @@
 	{
 		"name": "Mauna Kea Observatories",
 		"uniqueTo": "Polynesia",
+		"culture": 2,
 		"percentStatBonus": {"science": 50},
 		"specialistSlots": {"Scientist": 2},
 		"greatPersonPoints": {"Great Scientist": 2},
@@ -49,8 +47,6 @@
 		"uniqueTo": "Polynesia",
 		"cost": 40,
 		"requiredNearbyImprovedResources": ["Fish", "Whales", "Pearls", "Crab"],
-		"food": 2,
-		"gold": 2,
 		"hurryCostModifier": 25,
 		"uniques": [
 			"[+1 Food] from [Fish] tiles [in this city]",
@@ -65,8 +61,6 @@
 		"name": "Beach Resort",
 		"uniqueTo": "Polynesia",
 		"cost": 60,
-		"culture": 2,
-		"happiness": 2,
 		"gold": 2,
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 25,
