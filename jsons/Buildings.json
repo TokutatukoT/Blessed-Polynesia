@@ -4,13 +4,12 @@
 		"uniqueTo": "Polynesia",
 		"replaces": "Palace",
 		"isNationalWonder": true,
-		"production": 10,
-		"gold": 10,
-		"culture": 10,
-		"happiness": 10,
-		"faith": 5,
+		"production": 5,
+		"gold": 5,
+		"culture": 5,
+		"happiness": 5,
+		"faith": 3,
 		"cityStrength": 5,
-		"cityHealth": 10,
 		"cost": 0,
 		"uniques": [
 			"Indicates the capital city",
@@ -28,8 +27,8 @@
 		"isNationalWonder": true,
 		"uniques": [
 			"Must be next to [Coast]",
-			"[+2] Movement <for [{Military} {Water}] units>",
-			"[+2] Sight <for [{Military} {Water}] units>",
+			"Can be purchased with [Culture] [in all cities]",
+			"[+2] Movement <for [Water] units>", "[+2] Sight <for [Water] units>",
 			"Gain a free [Lighthouse] [in all coastal cities]"
 		],
 		"requiredTech": "Optics"
@@ -42,7 +41,7 @@
 		"greatPersonPoints": {"Great Scientist": 2},
 		"requiredBuilding": "Library",
 		"isNationalWonder": true,
-		"uniques": ["Gain a free [Observatory] [in all cities]"],
+		"uniques": ["Can be purchased with [Culture] [in all cities]", "Gain a free [Observatory] [in all cities]"],
 		"requiredTech": "Astronomy"
 	},
 	{
@@ -69,6 +68,7 @@
 		"culture": 2,
 		"happiness": 2,
 		"gold": 2,
+		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 25,
 		"uniques": [
 			"Must be next to [Coast]",
