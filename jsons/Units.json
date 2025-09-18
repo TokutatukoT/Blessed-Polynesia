@@ -22,6 +22,7 @@
 		"requiredTech": "Sailing",
 		"uniques": [
 			"Can instantly construct a [Fishing Boats] improvement <[5] times><by consuming this unit>",
+			"Can instantly construct a [Moai] improvement <for all movement>",
 			"Can instantly construct a [Offshore Platform] improvement <by consuming this unit>",
       		"Uncapturable",
       		"Automation is a primary action"
