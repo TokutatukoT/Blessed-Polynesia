@@ -39,7 +39,7 @@ BuildingIcons/Seafood Market
   orig: 256, 256
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Moai+Atoll
+TileSets/HexaRealm/Tiles/Atoll+Moai
   rotate: false
   xy: 1324, 340
   size: 64, 56
