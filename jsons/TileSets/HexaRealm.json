@@ -1,0 +1,7 @@
+{
+    "useColorAsBaseTerrain": "false",
+    "fallbackTileSet": "FantasyHex",
+    "ruleVariants": {
+      "Coast+Atoll+Moai": ["Coast", "Atoll+Moai"]
+    }
+}
